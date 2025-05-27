@@ -1,0 +1,20 @@
+{
+  "name": "snapshot-updater-api",
+  "version": "1.0.0",
+  "description": "API to update the snapshot URL in config.json",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "config",
+    "updater"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
